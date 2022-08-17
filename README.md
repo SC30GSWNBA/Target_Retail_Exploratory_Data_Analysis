@@ -6,11 +6,11 @@ Target is one of the world’s most recognized brands and one of America’s lea
 
 This business case has information of 100k orders from 2016 to 2018 made at Target in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
 
-Data is available in 8 csv files:
+Data is available in 8 csv files (Look for the csv files in the same folder):
 
 1. customers.csv
 
-2. geolocation.csv
+2. geolocation.csv (Uploaded as 2 separate files - geolocation - 1.csv and geolocation - 1.csv)
 
 3. order_items.csv
 
@@ -159,4 +159,4 @@ product_width_cm -> width of the product ordered in centimeters.
 **Problem Statement:**
 
 
-Assume you are a data scientist at Target, and are given this data to analyze and provide some insights and recommendations from it.
+Assume you are a data scientist at Target, and are given this data. Your job is to analyze and provide some insights and recommendations from it based on how Target Retail can increase the volume of orders in Brazil.
