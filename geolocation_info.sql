@@ -1,0 +1,1 @@
+select * from `target-retail-64862.target_retail.geolocation`
